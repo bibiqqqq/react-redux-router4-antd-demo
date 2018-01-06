@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.auth{
+  margin-top: 200px;
+}
+.auth .auth-wrapper{
+  text-align: center;
+}
+.auth .avatar{
+  display: block;
+  margin: 0 auto;
+}
+.auth .login{
+  display: block;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.list {
+  height: 30px;
+}
+.list-name{
+  color: rgb(25, 121, 254)
+}
+.list-content{
+  margin-left: 20px
+}
+.list-close{
+  float: right;
+  display: inline-block;
+}
